@@ -1,7 +1,7 @@
 {
   "name": "DSRV",
-  "website": "https://ether.fi,https://dsrvlabs.com",
+  "website": "https://dsrvlabs.com",
   "description": "DSRV is an integrated blockchain solutions company with the mission of enriching the crypto ecosystem via stronger connectivity. We strive to be your gateway to a suite of all-comprehensive blockchain services. Everything distributed, served complete.",
   "logo": "https://raw.githubusercontent.com/dsrvlabs/eigenlayer/main/dsrvlabs/holesky/DSRV_Logo.png",
-  "twitter": "https://x.com/ether_fi,https://x.com/dsrvlabs"
+  "twitter": "https://x.com/dsrvlabs"
 }
